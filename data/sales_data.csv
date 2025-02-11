@@ -1,0 +1,6 @@
+Date,Product_Category,Region,Sales,Quantity,Customer_Age
+2023-01-01,Electronics,North,1200,5,28
+2023-01-02,Clothing,South,800,10,34
+2023-01-03,Electronics,East,1500,3,45
+2023-01-04,Home & Kitchen,West,900,7,29
+2023-01-05,Clothing,North,600,12,52

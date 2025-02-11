@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Category,Price,Stock,Rating,Launch_Date
+101,Smart TV,Electronics,500.0,25.0,4.5,2021-05-15
+102,Laptop,Electronics,,15.0,4.7,2021-03-10
+103,Sofa,Furniture,300.0,30.0,,2020-11-20
+104,Coffee Maker,Kitchen,150.0,50.0,4.2,2021-01-25
+105,Smart TV,Electronics,500.0,25.0,4.5,2021-05-15
+106,Office Chair,Furniture,200.0,20.0,4.0,2022-02-05
+107,Desk,Furniture,,10.0,4.3,2019-06-30
+108,Phone,Electronics,400.0,,4.3,2022-03-12
